@@ -1,8 +1,8 @@
 import pygame
 from pygame.locals import *
 
-bug_color = (255, 255, 255)
-eye_color = (78, 219, 214)
+bug_color = (25, 205, 25)
+eye_color = (78, 219, 24)
 
 
 def draw_bug(surface, x, y, short_leg, eye_pos):
